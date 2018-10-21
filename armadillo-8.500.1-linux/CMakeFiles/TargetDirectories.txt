@@ -1,0 +1,7 @@
+/home/alexander/Downloads/armadillo-8.500.1/CMakeFiles/install.dir
+/home/alexander/Downloads/armadillo-8.500.1/CMakeFiles/list_install_components.dir
+/home/alexander/Downloads/armadillo-8.500.1/CMakeFiles/rebuild_cache.dir
+/home/alexander/Downloads/armadillo-8.500.1/CMakeFiles/armadillo.dir
+/home/alexander/Downloads/armadillo-8.500.1/CMakeFiles/install/strip.dir
+/home/alexander/Downloads/armadillo-8.500.1/CMakeFiles/install/local.dir
+/home/alexander/Downloads/armadillo-8.500.1/CMakeFiles/edit_cache.dir
