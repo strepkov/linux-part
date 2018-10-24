@@ -7,7 +7,11 @@ To install the tool chain, the following steps should be done:
 ```
 git clone https://github.com/strepkov/linux-part.git
 ```
-2. Install emsdk into the folder of the project (https://kripken.github.io/emscripten-site/docs/getting_started/downloads.html)
+2. Install java.
+```
+apt install openjdk-8-jre-headless
+```
+3. Install emsdk into the folder of the project (https://kripken.github.io/emscripten-site/docs/getting_started/downloads.html)
 ```
 git clone https://github.com/juj/emsdk.git
 cd emsdk
@@ -15,7 +19,7 @@ cd emsdk
 ./emsdk activate latest
 source ./emsdk_env.sh
 ```
-3. Run the webServer in background on the server(toolchain/web-server)
+4. Run the webServer in background on the server(toolchain/web-server)
 ```
 java -jar werServer.jar 3005 (the following port should be open in advance)
 ```
